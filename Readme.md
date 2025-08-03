@@ -28,7 +28,7 @@
 - Clone the **Repository**
 
   ```git
-  git clone https://github.com/Jiseeeh/console-shop.git
+  git clone https://github.com/mawzxc/console-shop.git
   ```
 
 - Open it in your ***favorite editor***
